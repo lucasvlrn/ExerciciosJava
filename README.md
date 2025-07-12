@@ -6,19 +6,19 @@ Aqui você encontrará todos os exercícios que estou resolvendo enquanto aprend
 
 ## 📂 Estrutura do Repositório
 ```
-📁 exercicios-java/
-├── ExerciseBasic1.java
-├── ExerciseBasic2.java
-├── ExerciseBasic3.java
-├── ExerciseBasic4.java
-├── README.md
-├── test.java
+📁 ExerciciosJava/
 ├── 📁 colecoes/              # List, Set, Map
 │   └── test.java
 ├── 📁 desafios/              # Exercícios extras, lógica, algoritmos
 │   └── test.java
 └── 📁 poo/                   # Classes, objetos, herança, polimorfismo
     └── test.java
+├── ExerciseBasic1.java
+├── ExerciseBasic2.java
+├── ExerciseBasic3.java
+├── ExerciseBasic4.java
+├── README.md
+├── test.java
 ```
 
 ## 🛠️ Tecnologias
